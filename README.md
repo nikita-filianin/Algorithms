@@ -1,2 +1,2 @@
 # Algorithms
-ADS KPI Tasks
+Alogorithms and Data Structures Tasks

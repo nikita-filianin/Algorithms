@@ -1,2 +1,2 @@
 # Algorithms
-Alogorithms and Data Structures Tasks
+Algorithms and Data Structures Tasks
